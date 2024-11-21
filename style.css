@@ -1,0 +1,390 @@
+body{
+    font-family: poppins;
+}
+ 
+    header{
+    background-color: #daac00;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.main{
+  margin-left: 20px;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: poppins;
+    
+}
+.banner{
+    background-color: #fcc302;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.banner_content h1{
+    color: #f3eeee;
+    font-family: poppins;
+    font-size: 57px;
+    font-weight: bold;
+}
+.banner_content p{
+    color: #fff;
+    font-family: poppins;
+    font-size: 33px;
+    margin-top: 20px;
+
+}
+.btn1{
+    color: #fff;
+    font-family:  sans-serif;
+    background-color: #00bec9;
+    padding: 5px 15px 5px 15px;
+   
+    margin-top: 20px;
+    font-size: 23px;
+ border-radius: 5px;
+ border: none;
+}
+.btn2{
+    color: #fff;
+    font-family: poppins;
+  
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: 2px solid white;
+    background-color:#fcc302;;
+    margin-left: 10px;
+}
+span{
+    margin-top: px;
+    font-size: 20px;
+    background-color: #00bec9;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    color: white;
+    border-radius: 5px;
+}
+.about_content{
+    margin-top: 130px;
+  
+   
+}
+.about_content h2{
+    font-size: 43px;
+    font-family: poppins;
+    font-weight: 550;
+ 
+}
+.about_content p{
+    padding-top: 30px;
+    font-size: 26px;
+    font-family: poppins;    
+}
+.about_btn{
+    margin-top: 10px;
+    margin-bottom: 150px;
+    
+}
+.about_btn1{
+    padding: 5px 10px 5px 10px;
+    background-color:  #daac00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+ .about_image {
+    margin-top: 100px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.about_image::before {
+    content: "";
+    position: absolute;
+    top: 65%;  
+    left: -5%;  
+    width: 50%;   
+    height: 40%;  
+    background-color: #fcc302;  
+    z-index: -1;  
+}
+.card1_content{
+    background-color: #fcc302;
+}
+.card2_content h1{
+   text-align: center;
+   padding-top: 30px;
+   font-size: 48px;
+   font-weight: bold;
+   color: white;
+   font-family: poppins;
+}
+.card2_content p{
+    
+        text-align: center;
+        padding-top: 20px;
+        font-size: 32px;
+        font-family: poppins;
+        color: white;
+        margin-bottom: 100px;
+  
+ }
+
+.real_card1  h4{
+    text-align: center;
+ 
+    padding-left: 0px;
+    padding-top: 20px;
+    color: white;
+
+}
+.real_card1  p{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding-bottom: 50px;
+    
+}
+.about2_img{
+    margin-top: 100px;
+    position: relative;
+   
+}
+.about2_img::before {
+    content: "";
+    position: absolute;
+    top: 75%;  
+    right: 15px;  
+    width: 30%;   
+    height: 27%;  
+    background-color: #fcc302;  
+    z-index: -1; 
+   
+}
+.about2_content h1{
+    font-family: poppins;
+    margin-top: 130px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+    color :#313243;
+}
+.about2_btn{
+    margin-left: 400px;
+    margin-top: 20px;
+  
+
+ 
+}
+.about2_btn1{
+    background-color: #fcc302;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    padding: 10px 15px 10px 15px;
+   
+}
+.blog{
+    background-color:#fcc302 ;
+    margin-top: 70px;
+    text-align: center;
+    padding-top: 50px;
+    color: #fff;
+    padding-bottom: 40px;
+
+}
+.blog_content p{
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+.blog_content1 img{
+    margin-bottom: 20px;
+  
+}
+del{
+     font-size: 30px;
+     padding-right: 50px;
+    
+  
+}
+  
+b{
+    font-size: 26px;
+    padding-right: 60px;
+}
+.button{
+    margin-right: 60px;
+    background-color: #00bec9;
+    border-radius: 25px;
+    padding: 5px 25px 5px 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+     color: #ffffff;
+}
+.del1{
+    margin-left: 60px;
+   
+}
+.button1{
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: #00bec9;
+    border-radius: 25px;
+    padding: 5px 25px 5px 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+     color: #ffffff;
+}
+.del2{
+    margin-left: 60px;
+   
+}
+.button2{
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: #00bec9;
+    border-radius: 25px;
+    padding: 5px 25px 5px 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+     color: #ffffff;
+}
+.team_content{
+    margin-top: 40px;
+}
+.instagram-icon {
+    font-size: 20px;  
+    background-color:#fcc302; 
+    color: white;  
+    border-radius: 50%;  
+    padding: 10px;  
+    
+    text-align: center;  
+}
+.facebook-icon {
+    font-size: 20px;  
+    background-color :#fcc302; 
+    ; 
+    color: white;  
+    border-radius: 50%;  
+    padding: 10px;  
+    
+    text-align: center;  
+}
+.twitter-icon {
+    font-size: 20px;  
+    background-color :#fcc302; 
+    ; 
+    color: white;  
+    border-radius: 50%;  
+    padding: 10px;  
+    
+    text-align: center;  
+}
+.whatsapp-icon {
+    font-size: 20px;  
+    background-color: #fcc302; 
+    color: white;  
+    border-radius: 50%;  
+    padding: 10px;  
+    
+    text-align: center;  
+}
+.post{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card_post-image{
+   margin-top: 50px;
+
+
+}
+.card_post-content{
+ 
+    border: 1px solid rgb(161, 155, 155);
+    border-top: none;
+   padding-top: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+ 
+  
+}
+.card_post-content h1{
+    font-size: 25px;
+}
+.card_post-content h6{
+  color: #00bec9;
+  padding-top: 10px;
+}
+.card_post-content p{
+   font-size: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+
+  }
+ 
+  footer{
+    background-color: #343434;
+    color: white;
+    padding-top: 130px;
+    padding-bottom: 100px;
+    
+  }
+  footer h2{
+  font-weight: bolder;
+  }
+  li{
+    list-style: none;
+    padding-bottom: 5px;
+    font-size: 20px;
+  }
+  
+ .border-box {
+     width: 400px;          
+     height: 45px;          
+     display: flex;
+     flex-direction: row; 
+     margin-left: 150px; 
+     margin-top: 20px;  
+     border: none; 
+ }
+
+ .yellow {
+     width: 70%;            
+     background-color:#fcc302; 
+     ;  
+ }
+ .blue {
+     width: 30%;            
+     background-color: #00bec9; 
+      
+ }
+ .blue i{
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    cursor: pointer;
+
+
+     
+ }
+ .footer_icons{
+    margin-left: 300px;
+    margin-top: 30px;
+    cursor: pointer;
+   
+ }
+ footer .container .col-lg-6{
+   text-align: end;
+ }
